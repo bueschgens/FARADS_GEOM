@@ -1,8 +1,11 @@
 # FARADS_GEOM
 
-## Module of FARADS - a fast and accurate radiation surface modelling framework
+## FARADS - Fast and Accurate calculation of RADiation heat transfer between arbitrary three-dimensional Surfaces
 
-best used together with:
-FARADS_MESHING
-FARADS_PLOT
-FARADS_VFCALC
+other modules of FARADS:
+- FARADS_MESHING
+- FARADS_PLOT
+- FARADS_VFCALC
+- FARADS_QRAD
+
+This module provides functions and types for geometrical objects for use in the other modules of FARADS.
