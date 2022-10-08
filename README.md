@@ -2,7 +2,7 @@
 
 ## FARADS - Fast and Accurate calculation of RADiation heat transfer between arbitrary three-dimensional Surfaces
 
-FARADS provides a model for calculating view factors of arbitrary three-dimensional geometries. With these view factors the additional application of the net radiation method for calculating exchanged heat fluxes can be used.
+FARADS provides a framework for calculating view factors of arbitrary three-dimensional geometries. With these view factors the additional application of the net radiation method for calculating exchanged heat fluxes can be used.
 
 other modules of FARADS:
 - FARADS_MESHING
